@@ -1,0 +1,25 @@
+The neural network model was able to learn from the customer data and make predictions about customer churn.
+
+The training accuracy shows how well the model performed on the data it learned from, while the testing accuracy shows how well it worked on new unseen data.
+
+The confusion matrix shows how many customers were predicted correctly and incorrectly as churn or non-churn.
+
+The model gave good overall results, which means it can be useful for predicting whether a customer is likely to leave the company or stay.
+
+
+Q. What role do weights and biases play in the model?
+
+Weights and biases help the neural network learn patterns from the data. 
+Weights decide how important each input feature is, while biases help adjust the final output so the model can make better predictions.
+
+Q. Why is an activation function required?
+
+An activation function is required because it helps the neural network learn complex relationships in the data. Without activation functions, the model would behave like a simple linear equation and would not learn properly.
+
+Q. What happens when learning rate is too high or too low?
+
+If the learning rate is too high, the model learns too quickly and may miss the correct solution. If the learning rate is too low, the model learns very slowly and takes a long time to improve.
+
+Q.Did your model show signs of underfitting or overfitting? Explain.
+
+The model did not show major signs of underfitting or overfitting because the training accuracy and testing accuracy were reasonably close to each other. This means the model was able to learn from the training data and also perform well on new unseen data. 
