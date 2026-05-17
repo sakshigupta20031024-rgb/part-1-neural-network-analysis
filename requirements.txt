@@ -1,22 +1,15 @@
-Task 6-
-
-What is convolution?
-Convolution is a process where the CNN scans small parts of an image to detect patterns such as edges, scratches, or stains.
-
-Why is pooling used?
-Pooling reduces image size while keeping important features. This makes training faster and helps reduce overfitting.
-
-Why is ReLU commonly used in CNNs?
-ReLU helps the model learn faster and improves performance by introducing non- linearity.
-
-Why are CNNs better than regular feed- forward networks for image data?
-CNNs are designed specifically for images. They automatically detect visual patterns and require fewer parameters than regular neural networks.
-
-
 Task 7-
 
-This computer vision system can be used in manufacturing quality inspection.
+This type of computer vision solution can be useful in the manufacturing industry.
 
-Factories can use cameras and CNN models to automatically detect defects such as scratches, dents, or stains during production.
+Companies can use cameras and AI models to check products automatically for defects like scratches, dents, or stains.
 
-This reduces manual inspection work, improves accuracy, saves time, and helps maintain product quality.
+Instead of workers checking every product manually, the CNN model can quickly identify damaged items from images.
+
+This helps:
+- save time
+- reduce human errors
+- improve product quality
+- increase production efficiency
+
+For example, a mobile phone factory could use this system to detect scratches on phone screens before packaging and delivery.
